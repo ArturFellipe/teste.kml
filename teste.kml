@@ -1,0 +1,1458 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="teste" id="teste">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="timestamp_1" type="string"></SimpleField>
+	<SimpleField name="begin_1" type="string"></SimpleField>
+	<SimpleField name="end_1" type="string"></SimpleField>
+	<SimpleField name="altitudeMode_1" type="string"></SimpleField>
+	<SimpleField name="tessellate_1" type="int"></SimpleField>
+	<SimpleField name="extrude_1" type="int"></SimpleField>
+	<SimpleField name="visibility_1" type="int"></SimpleField>
+	<SimpleField name="drawOrder_1" type="int"></SimpleField>
+	<SimpleField name="icon_1" type="string"></SimpleField>
+	<SimpleField name="nome" type="string"></SimpleField>
+	<SimpleField name="nomeabrev" type="string"></SimpleField>
+	<SimpleField name="geometriaaproximada" type="string"></SimpleField>
+	<SimpleField name="tipoclassecnae" type="string"></SimpleField>
+	<SimpleField name="operacional" type="string"></SimpleField>
+	<SimpleField name="situacaofisica" type="string"></SimpleField>
+	<SimpleField name="matconstr" type="string"></SimpleField>
+	<SimpleField name="nivelatencao" type="string"></SimpleField>
+	<SimpleField name="id_produtor" type="int"></SimpleField>
+	<SimpleField name="id_elementoprodutor" type="int"></SimpleField>
+</Schema>
+<Folder><name>teste</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">UAPCS MOURÃO FILHO</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.56812822,-23.0661054193192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Posto Médico de Saúde Dr. Alvimar de Carvalho</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.62753876,-22.9973148493208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">UACAPS Dr. Maia Bittencourt</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.59411951,-22.9928231893209</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Posto Médico Waldemar Bernardinelle</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.69599329,-22.9768155093212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">posto municipal de saúde lincoln de freitas Filho</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.68707457,-22.9185259593226</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Estadual Pedro II</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.68775856,-22.9128355193227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">posto municipal de saúde Ruy da Costa Leite ou P</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.67018569,-22.9305971793223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">posto de saúde Cesário de Mello ou Cesarão</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.66113823,-22.9334530293222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">posto médico Sávio Antunes</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.65527244,-22.9223999693225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Posto de Saúde Dra. Maria Aparecida de Almeida</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.63910254,-22.9223627393225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">UACAPS Dr. Woodrow Pimentel Pantoja</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.61058762,-22.9553190593217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Posto de Saúde Dr. João Baptista Chagas</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.63496303,-22.9272633093224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">posto municipal de saúde Emydio Cabral</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.62500794,-22.9240740293225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Posto de Saúde Prof. Mário V. A. Pacheco</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.58315302,-22.9106212793228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Posto de Saúde Cecília Donnangelo</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.47699536,-22.986530859321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">posto médico de Ernani de P.F Braga</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.7114642,-22.9045765793229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">posto médico de saúde Enf. Floripes G. Pereira</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.6438429,-22.8830969993234</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Unidade de Pronto  Atendimento de Piranema</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.71268233,-22.8354920493245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Posto de Saúde Municipal Cyro de Melo</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.62803936,-22.8736252093236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Santa Casa de Misericórdia</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.57238462,-22.9064941293228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Estadual Rocha Faria</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.56231289,-22.9080637793228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">posto saúde Belizário Penha</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.56985635,-22.897748459323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Estadual Eduardo Rabello</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.5358675,-22.897856659323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Posto Médico Oswaldo Vilella</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.55834715,-22.8749427793236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Posto Médico Manuel de Abreu</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.5333899,-22.8747581893236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">UMAMP Dr. Silvio Barbosa</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.49730464,-22.8776622393235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Posto Médico Henrique Monat</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.4924276,-22.854836429324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Posto de Saúde Dr. Eithel Pinheiro Oliveira Lima</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25002</SimpleData>
+		<SimpleData name="id_elementoprodutor">490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.48414801,-22.8683328493237</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Recreio Medical Center</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">445</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.47040976,-23.0146297493204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Clínica da Família Samuel Penha Valle</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">445</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.6522178,-22.9275421993224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Policlínica Naval de Campo Grande</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">85.14-6 Serviços de complementação diagnóstica ou terapêutica.</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">445</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.5838469,-22.8652198493238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Clínica da Família Rogério Rocco</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">445</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.609117,-22.8917715993232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Oeste D'Or</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">85.11-1 Atendimento hospitalar (Hospital)</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">445</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.55898364,-22.9082080993228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Pasteur</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">85.11-1 Atendimento hospitalar (Hospital)</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">445</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.5639569,-22.9072892993228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Casa de Saúde Nossa Senhora do Carmo</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">Outros</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">445</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.5610913,-22.898419499323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">UPA - Campo Grande</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">85.12-0 Atendimento a urgência e emergências (Pronto Socorro)</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">445</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.57455672,-22.9075782993228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">UPA - Senador Camará</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Sim</SimpleData>
+		<SimpleData name="tipoclassecnae">85.12-0 Atendimento a urgência e emergências (Pronto Socorro)</SimpleData>
+		<SimpleData name="operacional">Desconhecido</SimpleData>
+		<SimpleData name="situacaofisica">Desconhecida</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">445</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.4832859,-22.8824865993234</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Policlínica de Paracambi</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205436</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.67379502,-22.857341979324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Municipal Doutor Manoel Eiras</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205372</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.65137775,-22.8541748693241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">SUAS-Sistema Único de Assistência Social</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205750</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.68895946,-22.8389424593244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Municipal Doutor Manoel Eiras</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205336</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.65783974,-22.8660701893238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Municipal Doutor Manoel Eiras</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205350</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.66604069,-22.8737810293236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Municipal Doutor Manoel Eiras</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205351</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.66521429,-22.8735966193236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Municipal Doutor Manoel Eiras</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205352</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.66446381,-22.8732842293236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Municipal Doutor Manoel Eiras</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205370</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.652113,-22.8536958193241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Municipal Doutor Manoel Eiras</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205371</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.65164658,-22.8532213093241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Municipal Doutor Manoel Eiras</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205380</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.69083444,-22.8730863893236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Municipal Doutor Manoel Eiras</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205384</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.68733183,-22.8726433193236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Municipal Doutor Manoel Eiras</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205441</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.66888907,-22.857692549324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Municipal Doutor Manoel Eiras</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205442</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.66884363,-22.858105289324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Municipal Doutor Manoel Eiras</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205451</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.6662946,-22.8602736393239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Municipal Doutor Manoel Eiras</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205452</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.66592184,-22.8602004293239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Municipal Doutor Manoel Eiras</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205458</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.66229557,-22.8592733893239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Municipal Doutor Manoel Eiras</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205460</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.66196495,-22.8598051093239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Municipal Doutor Manoel Eiras</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205478</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.66689765,-22.8645024493238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Unidade de saúde do Bairro Fazenda Sabugo</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205529</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.66089118,-22.8720409393236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Unidade de saúde do Bairro Fazenda Sabugo</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205530</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.65631603,-22.8747749493236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Municipal Doutor Manoel Eiras</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205741</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.70270313,-22.8473715993242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Unidade de saúde do Bairro Fazenda Sabugo</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205376</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.672628,-22.8748515993236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Santa Maria</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205842</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.62586116,-22.8689819593237</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Municipal Doutor Manoel Eiras</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205891</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.70659188,-22.8319911093246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Municipal Doutor Manoel Eiras</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205892</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.70936765,-22.8330069693245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Municipal Doutor Manoel Eiras</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205896</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.65399127,-22.8330583593245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Nelson Salles</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205931</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.71207599,-22.8499858893241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Municipal Doutor Manoel Eiras</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205981</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.67428009,-22.8374176293244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Municipal Doutor Manoel Eiras</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205995</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.70856344,-22.8521850793241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Municipal Doutor Manoel Eiras</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.71035656,-22.8513855593241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Municipal Doutor Manoel Eiras</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">206167</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.69844012,-22.8402946493244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Municipal Doutor Manoel Eiras</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">206169</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.68149734,-22.8394331493244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Municipal Doutor Manoel Eiras</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">206170</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.6816571,-22.8385282093244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Paracambi</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">206178</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.66869897,-22.858359409324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Unidade Básica de Saúde Doutor Marcus Vinícius de Vasconcelos</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">206304</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.70796272,-22.8530626293241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Hospital Municipal Doutor Manoel Eiras</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">206506</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.67796902,-22.8515111993241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Centro Municipal de Saúde Padre Tiahogozik</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205324</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.64602869,-22.8730326193236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Centro Municipal de Saúde Doutor Bruno José Gonçalves</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205537</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.65613594,-22.8626154793239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Posto Municipal de Saúde Paracambi</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205535</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.67435613,-22.856241599324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Posto Municipal de Saúde Jardim Nova Era</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205546</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.62732695,-22.8454597693243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Posto Municipal de Saúde do Centro</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205843</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.63106345,-22.8724159893236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teste">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">Unidade Básica de Saúde da Família Oscar Rudge</SimpleData>
+		<SimpleData name="nomeabrev"></SimpleData>
+		<SimpleData name="geometriaaproximada">Não</SimpleData>
+		<SimpleData name="tipoclassecnae">Desconhecido</SimpleData>
+		<SimpleData name="operacional">Sim</SimpleData>
+		<SimpleData name="situacaofisica">Construída</SimpleData>
+		<SimpleData name="matconstr">Desconhecido</SimpleData>
+		<SimpleData name="nivelatencao"></SimpleData>
+		<SimpleData name="id_produtor">25001</SimpleData>
+		<SimpleData name="id_elementoprodutor">205751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.68679448,-22.8364896993244</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
